@@ -1,4 +1,3 @@
-Hey, I am Godfrey Wekesa Simiyu , currently a student at kibabii university(Kenya) doing Information technology. I am a software developer, fullstack Web developer using react , node, and express Js.
-I have two years of experience working with React Framework. I have good understanding in Mysql databases and i can do all sorts of manipulation of sql queries.
+Greetings, I'm Godfrey Wekesa Simiyu, a student studying information technology at Kibabii University in Kenya. As a software engineer, I work with the Django web framework and use React, Node, and Express Js. I have four years of expertise creating user-friendly software designs using the React Framework, Java FX Framework, and FXML Scene Builder. I am proficient with Mysql databases and have the ability to manipulate queries in a variety of ways.
 
-I have high passion in machine learning and data analysis.
+
